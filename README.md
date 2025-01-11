@@ -23,4 +23,4 @@ I'm a passionate **Software and Hardware Developer** and a student of **Programm
 
 ### 📫 Contact Me
 Feel free to reach out:  
-[[![LinkedIn]](https://www.linkedin.com/in/mathysaak/) (https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-profile/)   
+(https://www.linkedin.com/in/mathysaak/) (https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-profile/)   
