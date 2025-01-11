@@ -1,0 +1,26 @@
+# 👋 Hello, I'm Matias Sarapura!
+
+## 🎓 About Me
+I'm a passionate **Software and Hardware Developer** and a student of **Programming and Mechatronics**. My interests span across software development, electronics, and microcontroller programming.
+
+### 🔧 Skills & Technologies
+- **Programming Languages:**  
+  ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)  
+  ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)  
+  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)  
+  ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)  
+
+- **Frameworks and Tools:**  
+  ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)  
+  ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)  
+  ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)  
+  ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)  
+
+- **Fields of Interest:**  
+  - Mobile Application Development with Kotlin and Android  
+  - Web Application Development using Angular and Spring Boot  
+  - Electronics and Microcontroller Programming  
+
+### 📫 Contact Me
+Feel free to reach out:  
+[[![LinkedIn]](https://www.linkedin.com/in/mathysaak/) (https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-profile/)   
