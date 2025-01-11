@@ -1,8 +1,5 @@
 # 👋 Hello, I'm Matias Sarapura!
 
-## 🎓 About Me
-I'm a passionate **Software and Hardware Developer** and a student of **Programming and Mechatronics**. My interests span across software development, electronics, and microcontroller programming.
-
 ### 🔧 Skills & Technologies
 - **Programming Languages:**  
   ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)  
