@@ -20,7 +20,3 @@ I'm a passionate **Software and Hardware Developer** and a student of **Programm
   - Mobile Application Development with Kotlin and Android  
   - Web Application Development using Angular and Spring Boot  
   - Electronics and Microcontroller Programming  
-
-### 📫 Contact Me
-Feel free to reach out:  
-(https://www.linkedin.com/in/mathysaak/) (https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-profile/)   
