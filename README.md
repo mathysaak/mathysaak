@@ -18,7 +18,7 @@
   - Web Application Development using Angular and Spring Boot  
   - Electronics and Microcontroller Programming  
 
-#🌟 Projects
+## Projects 🌟 
 
 # Linguali - English Learning App 🎓
 
