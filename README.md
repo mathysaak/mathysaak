@@ -17,3 +17,24 @@
   - Mobile Application Development with Kotlin and Android  
   - Web Application Development using Angular and Spring Boot  
   - Electronics and Microcontroller Programming  
+
+#🌟 Projects
+
+# Linguali - English Learning App 🎓
+
+## Overview
+Linguali is an Angular-based web application designed to help users learn and master English verbs. It features an irregular verb conjugator, a complete conjugation tool for all tenses, and an engaging challenge game to test users' knowledge.
+
+## Features
+- **Irregular Verb Conjugator**: Quickly search for irregular verbs and learn their conjugations.  
+- **All Tenses**: Access the conjugation of verbs in all English tenses.  
+- **Challenge Game**: A fun game where users conjugate verbs under time pressure.
+
+## Demo
+[Access Linguali Here](https://linguali.vercel.app/)
+
+## Tech Stack
+- **Frontend:**  
+  ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)  
+  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
+
