@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Matias Sarapura!
+## 👋 Hello, I'm Matias Sarapura!
 
 ### 🔧 Skills & Technologies
 - **Programming Languages:**  
