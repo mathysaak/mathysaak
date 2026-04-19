@@ -1,40 +1,45 @@
 ## 👋 Hello, I'm Matias Sarapura!
 
+**Software Quality & Application Support Engineer**
+
+I am a University Programmer Analyst and Mechatronics Technician based in Argentina. I bridge the gap between software reliability and system infrastructure. My background allows me to understand systems holistically—from troubleshooting hardware and network issues to automating data validation pipelines and testing web applications.
+
+I am currently focused on **QA Automation, Data Quality, and IT Support**, building tools to ensure data integrity and system stability. 
+
+### 🌍 Languages
+- **Spanish:** Native
+- **Portuguese:** Professional Working (B2)
+- **English:** Intermediate (B1) - *Actively studying to reach B2*
+
 ### 🔧 Skills & Technologies
-- **Programming Languages:**  
-  ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)  
-  ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)  
-  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)  
-  ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat&logo=kotlin&logoColor=white)  
 
-- **Frameworks and Tools:**  
-  ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)  
-  ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)  
-  ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)  
-  ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)  
+- **QA Automation & Data:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
+  ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)  
+  ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)  
+  ![SQL](https://img.shields.io/badge/SQL_&_Databases-4479A1?style=flat&logo=mysql&logoColor=white)  
+  ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
 
-- **Fields of Interest:**  
-  - Mobile Application Development with Kotlin and Android  
-  - Web Application Development using Angular and Spring Boot  
-  - Electronics and Microcontroller Programming  
+- **IT Support & Systems:** ![Hardware Troubleshooting](https://img.shields.io/badge/Hardware_Troubleshooting-4D4D4D?style=flat&logo=ifixit&logoColor=white)  
+  ![Arduino & Electronics](https://img.shields.io/badge/Mechatronics_&_Arduino-00979D?style=flat&logo=arduino&logoColor=white)  
+  ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-## Projects 🌟 
+---
 
-# Linguali - English Learning App 🎓
+## 🚀 Featured Projects
 
-## Overview
-Linguali is an Angular-based web application designed to help users learn and master English verbs. It features an irregular verb conjugator, a complete conjugation tool for all tenses, and an engaging challenge game to test users' knowledge.
+### 📊 SADE - Economic Data Pipeline & Auditor (In Development)
+*An end-to-end data pipeline designed to extract, validate, and store macroeconomic indicators.*
+- **Role:** Data Quality Engineer
+- **Tech Stack:** Python, Playwright, Pandas, SQL.
+- **Highlights:** Automates data ingestion via government APIs and web scraping. Implements QA rules to detect anomalies in datasets before storage.
 
-## Features
-- **Irregular Verb Conjugator**: Quickly search for irregular verbs and learn their conjugations.  
-- **All Tenses**: Access the conjugation of verbs in all English tenses.  
-- **Challenge Game**: A fun game where users conjugate verbs under time pressure.
+### 🎓 Linguali - English Learning App (Past Project)
+*An interactive web application designed to help users master English verbs through timed challenges.*
+- **Role:** Full-Stack Developer
+- **Tech Stack:** Angular, TypeScript.
+- **Highlights:** Built a custom irregular verb conjugator and a responsive UI. Demonstrates strong foundational knowledge of frontend architecture and REST APIs.
+- [Live Demo](https://linguali.vercel.app/)
 
-## Demo
-[Access Linguali Here](https://linguali.vercel.app/)
+---
 
-## Tech Stack
-- **Frontend:**  
-  ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)  
-  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
-
+📫 **Let's connect!** Always open to discussing QA, Data, or IT Support opportunities.
