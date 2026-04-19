@@ -8,20 +8,26 @@ I am currently focused on **QA Automation, Data Quality, and IT Support**, build
 
 ### 🌍 Languages
 - **Spanish:** Native
-- **Portuguese:** Professional Working (B2)
-- **English:** Intermediate (B1) - *Actively studying to reach B2*
+- **Portuguese:** Advanced (C1)
+- **English:** Upper-Intermediate (B2)
 
 ### 🔧 Skills & Technologies
 
-- **QA Automation & Data:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)  
+- **QA Automation & Data:** ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)     
   ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)  
   ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)  
   ![SQL](https://img.shields.io/badge/SQL_&_Databases-4479A1?style=flat&logo=mysql&logoColor=white)  
   ![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat&logo=jira&logoColor=white)
+  *Skills: API Testing, Web Scraping, ETL Pipelines, Data Validation, Test Case Design, Bug Reporting, Agile/Scrum.*
 
 - **IT Support & Systems:** ![Hardware Troubleshooting](https://img.shields.io/badge/Hardware_Troubleshooting-4D4D4D?style=flat&logo=ifixit&logoColor=white)  
-  ![Arduino & Electronics](https://img.shields.io/badge/Mechatronics_&_Arduino-00979D?style=flat&logo=arduino&logoColor=white)  
+  ![Arduino & Electronics](https://img.shields.io/badge/Mechatronics_&_Arduino-00979D?style=flat&logo=arduino&logoColor=white)
+  ![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
   ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+  ![Linux](https://img.shields.io/badge/Linux_Environments-FCC624?style=flat&logo=linux&logoColor=black)
+  ![Networking](https://img.shields.io/badge/Networking_&_Support-4D4D4D?style=flat&logo=cisco&logoColor=white)  
+  *Skills: Hardware Diagnostics, OS Troubleshooting, Networking (TCP/IP), System Logic (C++).*
 
 ---
 
