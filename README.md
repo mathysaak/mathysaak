@@ -106,6 +106,6 @@ Hardware diagnostics and repair (notebooks, industrial scales, consumer electron
 <div align="center">
 
 📫 Open to **QA Automation** and **Data Engineering** opportunities.
-[LinkedIn](https://linkedin.com/in/TU-HANDLE) · [mathysaak](https://github.com/mathysaak)
+[LinkedIn](https://linkedin.com/in/mathysaak) · [mathysaak](https://github.com/mathysaak)
 
 </div>
