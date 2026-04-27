@@ -15,7 +15,7 @@
 
 ## 👋 About me
 
-I'm a Programmer Analyst (in progress) and Mechatronics Technician based in Jujuy, Argentina. My path started with physical systems — repairing electronics, configuring networks — and evolved into software quality and data automation.
+I'm a Programmer Analyst (in progress) and Mechatronics Technician based in Jujuy, Argentina 🇦🇷. My path started with physical systems — repairing electronics, configuring networks — and evolved into software quality and data automation.
 
 When something breaks, I look for *where* in the stack it breaks, not just what the error says. That end-to-end perspective is what I bring to QA.
 
