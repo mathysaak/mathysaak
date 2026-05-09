@@ -25,10 +25,10 @@ Currently building data pipelines on economic datasets, automating tests with Py
 
 ## 💼 Experience
 
-**AI Model Evaluator** · [Outlier](https://outlier.ai) · 2024–present
+**AI Model Evaluator** · [Outlier](https://outlier.ai) · 2025–present
 Designing and evaluating technical prompts for frontier AI models. Assessing output quality, correctness, and reasoning. Domain: software engineering.
 
-**QA Tester** · [uTest](https://utest.com) · 2023–present
+**QA Tester** · [uTest](https://utest.com) · 2025–present
 Functional and exploratory testing on web and mobile platforms. Bug lifecycle management, test case execution, reproduction steps documentation.
 
 **IT Support & Electronics Repair** · Freelance · ongoing
