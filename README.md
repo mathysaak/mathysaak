@@ -93,14 +93,17 @@ Hardware diagnostics and repair (notebooks, industrial scales, consumer electron
 
 ---
 
-<div align="center">
-  <a href="https://github.com/mathysaak">
-    <img src="https://github-readme-stats.vercel.app/api?username=mathysaak&show_icons=true&hide_border=true&count_private=true&title_color=2EAD33&icon_color=2EAD33&text_color=888780" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/mathysaak">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathysaak&layout=compact&hide_border=true&title_color=2EAD33&text_color=888780" alt="Top Langs" />
-  </a>
-</div>
+ 
+
+
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mathysaak&show_icons=true&hide_border=true&count_private=true&title_color=2EAD33&icon_color=2EAD33&text_color=888780)](https://github.com/mathysaak)
+
+&nbsp;&nbsp;
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mathysaak&layout=compact&hide_border=true&title_color=2EAD33&text_color=888780)](https://github.com/mathysaak)
+
+
+
 
 ---
 
