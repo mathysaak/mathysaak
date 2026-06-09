@@ -101,10 +101,9 @@ Hardware diagnostics and repair (notebooks, industrial scales, consumer electron
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathysaak&layout=compact&hide_border=true&title_color=2EAD33&text_color=888780&v=1" alt="Top Langs" />
   </a>
 </div>
----
 
 <div align="center">
-
+---
 📫 Open to **QA Automation** and **Data Engineering** opportunities.
 [LinkedIn](https://linkedin.com/in/mathysaak) · [mathysaak](https://github.com/mathysaak)
 
